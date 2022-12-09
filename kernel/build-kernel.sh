@@ -1,0 +1,2 @@
+make kernel
+make buildimg
